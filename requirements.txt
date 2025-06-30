@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+asyncpg
+requests
+beautifulsoup4
+jinja2
+chart.js
+jinja2
