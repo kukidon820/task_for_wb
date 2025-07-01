@@ -15,11 +15,7 @@
   ```
     pip install -r requirements.txt
   ```
-  Создать файл .env в корне проекта со следующими переменными окружения:
 
-  ```
-  DATABASE_URL=postgresql://analytics_user:analytics_pass@db/analytics_db
-  ```
 
   Далее небходимо установить docker
   ```
